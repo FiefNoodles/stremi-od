@@ -1,0 +1,11 @@
+{
+    "id": "mikmc.od.org",
+    "version": "2.0.0",
+    "name": "StremiO-D +",
+    "description": "Movie & TV Streams from Open Directories",
+    "logo": "https://raw.githubusercontent.com/mik25/stremio-greek-tv/master/open.png",
+    "resources": ["stream"],
+    "types": ["movie", "series"],
+    "idPrefixes": ["tt"],
+    "catalogs": []
+  }   
